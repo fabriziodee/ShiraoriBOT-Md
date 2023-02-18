@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['6281351047727'] // Put your number here
+global.owner = ['393518398856'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -39,16 +39,16 @@ global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/ilmanhdyt_"
+global.urlnya = "https://www.instagram.com/_Fabri115"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-5104-7727'
+global.phn = '+393518398856'
 
 //============= Games ================//
-global.benar = '_*Benar✅*_'
-global.salah = '_*Salah❌*_'
-global.dikit = "dikit lagi, semangat ya :')"
+global.benar = '_*Corretto✅*_'
+global.salah = '_*Sbagliato❌*_'
+global.dikit = "un po' di più, spirito sì :')"
 
 
 global.multiplier = 69 // The higher, The harder levelup
